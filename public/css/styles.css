@@ -1,0 +1,143 @@
+header{
+    background: url(../images/background.jpg) fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: -8px;
+}
+header .h2{
+    background-color: rgba(10,4,37,.85);;
+}
+header .logo{
+    max-width: 100%;
+    height: auto;
+}
+header p{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-weight: 450;
+    color: white;
+    font-size: 27px;
+}
+header .container a{
+    background: rgb(255, 71, 71);
+    color: white;
+    padding: 15px 60px;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 2px;
+    font-size: 15px;
+}
+header i{
+    padding-right: 10px;
+}
+header .container a:hover{
+    background: white;
+    color: black;
+}
+header .container{
+    text-align: center;
+    color: white;
+    padding: 80px;
+}
+.content{
+    text-align: center;
+    background-color: #f3f3f3;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.content .container h3{
+    padding-bottom: 80px;
+}
+.content .container .c2{
+    padding-top: 60px;
+}
+.content .container .c1 .col1 a img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.content .container .c1 .col2 a{
+    background: white;
+    color: black;
+    padding: 18px 113px;
+    text-decoration: none;
+}
+.content .container .c1 .col2 a:hover{
+    color: red;
+}
+.content .container .c1 .col2{
+    margin-top: 18px;
+}
+.content .container .c1 .col4 a{
+    background: white;
+    color: black;
+    padding: 18px 110px;
+    text-decoration: none;
+}
+.content .container .c1 .col4 a:hover{
+    color: red;
+}
+.content .container .c1 .col4{
+    margin-top: 18px;
+}
+.content .container .c1 .col6 a{
+    background: white;
+    color: black;
+    padding: 18px 113px;
+    text-decoration: none;
+}
+.content .container .c1 .col6 a:hover{
+    color: red;
+}
+.content .container .c1 .col6{
+    margin-top: 18px;
+}
+.content .container .c2 .col2 a{
+    background: white;
+    color: black;
+    padding: 18px 126px;
+    text-decoration: none;
+}
+.content .container .c2 .col2 a:hover{
+    color: red;
+}
+.content .container .c2 .col2{
+    margin-top: 18px;
+}
+.content .container .c2 .col4 a{
+    background: white;
+    color: black;
+    padding: 18px 97px;
+    text-decoration: none;
+}
+.content .container .c2 .col4 a:hover{
+    color: red;
+}
+.content .container .c2 .col4{
+    margin-top: 18px;
+}
+.content .container .c2 .col6 a{
+    background: white;
+    color: black;
+    padding: 18px 118px;
+    text-decoration: none;
+}
+.content .container .c2 .col6 a:hover{
+    color: red;
+}
+.content .container .c2 .col6{
+    margin-top: 18px;
+}
+.content img{
+    height: auto;
+    width: 100%;
+}
+footer{
+    background: #041230;
+    padding: 50px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
